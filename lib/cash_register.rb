@@ -9,4 +9,7 @@ class CashRegister
   def discount(percent_off)
   end
 
+  def total(new_total_price)
+  end 
+
 end
